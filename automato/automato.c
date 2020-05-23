@@ -104,14 +104,7 @@ int main(){
 
 }
 
-
-
-
-
-
-
-//----------------------------------------------------------------------------------------
-//menu 1 - automato finito deterministico
+//menu 1
 int recebeVetor(char nomearq[], int tamanho){
 	char mostrar[50];
 	int i,j=0;
