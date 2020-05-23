@@ -97,7 +97,8 @@ int main(){
 	}
 
 
-	printf("\nPROGRAMA FINALIZADO!");
+
+	printf("\nPROGRAMA FINALIZADO!\n");
 
 	fclose (arquivo);
 
@@ -121,7 +122,7 @@ int recebeVetor(char nomearq[], int tamanho){
 		}		
 		printf ("%c",mostrar[i]);
 	}
-	return (mostrar[i]);
+	
 	
 }
 

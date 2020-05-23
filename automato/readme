@@ -1,0 +1,5 @@
+1. existem alguns problemas com bibliotecas do C para SO windows e linux.
+2. algumas adaptações ocorreram durante o processo de criação do codigo
+3. bibliotecas como, conio.h que funcionam em windows, podem ser trocadas pela ncurses.h para linux, desde que, feitas as configurações e instalacoes (para auxiliar, indexei este link com passo a passo para instalação e configuração - https://tutorfreebr.blogspot.com/2015/05/como-utilizar-biblioteca-ncursesh.html).
+4. codigo livre para ser modificado, desde que feito para fins educativos.
+
